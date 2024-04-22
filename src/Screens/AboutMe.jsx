@@ -2,7 +2,6 @@
 import React from 'react';
 import Navigation from '../component/Navigation';
 import "../css/aboutMe.css"
-import profileTwo from "../images/1713590976717.jpeg";
 import profile from "../images/1713590976717.jpeg";
 import { FaGithub, FaLinkedin, FaGoogle, FaPhone } from 'react-icons/fa';
 

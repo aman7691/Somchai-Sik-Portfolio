@@ -1,7 +1,6 @@
 import React from 'react';
 import Navigation from '../component/Navigation';
 import "../css/aboutMe.css"
-import profile from "../images/smiling-funny-young-man-casual-260nw-1571329726.webp";
 import { DiReact, DiMongodb } from 'react-icons/di';
 
 import { FaJs, FaHtml5, FaCss3Alt, FaReact, FaAws, FaLinux, FaDatabase, FaLink } from 'react-icons/fa';

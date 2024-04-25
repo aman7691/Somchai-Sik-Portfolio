@@ -48,8 +48,7 @@ const About = () => {
                                 </div>
                                 <div className='desPara'>
                                     <p>
-                                        Highly motivated and skilled Fullstack Developer with a strong foundation in web development and a passion for creating innovative digital solutions. A recent graduate of Langara College, equipped with extensive knowledge in HTML, CSS, JavaScript, React.js, React Native, MongoDB, Java, Express.js, and Node.js. Proficient in both frontend and backend technologies, adept at crafting dynamic and user-friendly applications.
-                                        Throughout my academic and professional journey, I have collaborated effectively within team environments, contributing to the successful completion of various projects. My experience working collaboratively has honed my communication and interpersonal skills, making me a valuable team member. With a keen eye for detail and a commitment to delivering high-quality work.
+                                    I'm passionate about web and mobile development, having learned HTML, CSS, JavaScript, React Native, and Node.js during my studies in Canada. I've also worked with MongoDB and deployed apps on AWS EC2. I thrive in team projects, earning recognition for my contributions, and I'm always excited to tackle new challenges.
                                     </p>
                                     <div className='socialIcons'>
                                         <a href="https://github.com/aman7691" target="_blank" rel="noopener noreferrer">
